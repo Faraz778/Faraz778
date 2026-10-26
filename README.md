@@ -90,23 +90,6 @@ A RESTful API for managing books with a structured backend architecture.
 
 ---
 
-### 🛒 ECommerce API
-
-**ASP.NET Core Web API | C# | EF Core | SQL Server | JWT**
-
-An e-commerce backend API with authentication and order management.
-
-- JWT authentication
-- User registration and login
-- Authorized product management
-- Orders and order items
-- Entity Framework Core
-- SQL Server
-
-🔗 [View Repository](https://github.com/Faraz778/ECommerceApi)
-
----
-
 ### ✅ Task Management API
 
 **ASP.NET Core Web API | C# | EF Core | SQL Server | JWT**
