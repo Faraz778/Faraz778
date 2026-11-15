@@ -9,7 +9,7 @@ I have built full-stack projects using ASP.NET Core, React, Node.js, and Express
 # 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbazfaraz69@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faraz778)
+[![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faraz778)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faraz-dotnet/)
 ---
 
